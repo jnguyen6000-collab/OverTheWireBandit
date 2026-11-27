@@ -5,6 +5,7 @@ Log into the game server using SSH.
 
 ## Terminal
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+Password: bandit0
 
 ## What I Learned
 - SSH (Secure Shell) is used to remotely connect to machines securely
