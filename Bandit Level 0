@@ -3,7 +3,7 @@
 ## Level Goal
 Log into the game server using SSH.
 
-## Terminal
+## Commands
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 Password: bandit0
 
