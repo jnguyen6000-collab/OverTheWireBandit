@@ -3,7 +3,7 @@
 ## Level Goal
 Find a password stored in a file called `readme` in the home directory.
 
-## Terminal
+## Commands used
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
